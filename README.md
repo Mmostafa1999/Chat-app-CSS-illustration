@@ -19,7 +19,7 @@ This project is a solution to a challenge from Frontend Mentor, a platform that 
 ## How to run the project
 1. Clone this repository to your local machine by running the following command in your terminal
 
-```$ git clone https://github.com/your-username/project.git```
+```$ git clone https://github.com/[Mmostafa1999]/[Chat-app-CSS-illustration].git```
 
 2. Navigate to the project directory:
 
@@ -40,4 +40,4 @@ This project is a solution to a challenge from Frontend Mentor, a platform that 
 If you have any suggestions or find any bugs, please feel free to create a pull request or open an issue.
 
 ## Author
-[Mahmoud Mustafa](https://github.com/mmostafa1999)
+[Mahmoud Mustafa](https://github.com/Mmostafa1999)
